@@ -1,2 +1,1 @@
-# second-kill-system
-高并发秒杀系统
+RabbitMQ入门到应用
